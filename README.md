@@ -1,4 +1,4 @@
-````md
+
 # 治理型分析產品文件包（治理底層 × 資料中台 × 分析功能）
 
 本文件包描述一套「治理型分析產品」：分析輸出不以圖表為終點，而以 **可稽核(Auditable)、可追溯(Traceable)、可核決(Approving-ready)、可回滾(Rollbackable)** 為核心。  
@@ -35,7 +35,8 @@ flowchart LR
 
   K --> G
   K --> H
----
+
+```
 
 ## 資料中台分層（Raw → Curated → Mart → Service → Dashboard/Report）
 
