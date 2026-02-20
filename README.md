@@ -35,8 +35,9 @@ flowchart LR
 
   K --> G
   K --> H
-
 ```
+
+---
 
 ## 資料中台分層（Raw → Curated → Mart → Service → Dashboard/Report）
 
